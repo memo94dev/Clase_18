@@ -1,0 +1,15 @@
+.carousel-item{
+    img{
+        height: auto;
+        object-fit: cover;
+        aspect-ratio: 16/6;
+    }
+}
+body{
+    background: linear-gradient(45deg, aqua, blue);
+    height: 100vh;
+    h5, p {
+        font-size: 1.8em;
+        color: black;
+    }
+}
